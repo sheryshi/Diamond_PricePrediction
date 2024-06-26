@@ -12,7 +12,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='DIAMONDPricePrediction',
     version='0.0.1',
-    author='Shreyshi',
+    author='Shreyashi',
     author_email='sheryshisingh772@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
